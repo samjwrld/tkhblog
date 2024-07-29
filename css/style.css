@@ -9319,3 +9319,13 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+    
+    @media only screen and (max-width: 768px) {
+  /* CSS styles for screens up to 768px */
+  .container {
+    width: 90%;
+    margin: 0 auto;
+  }
+  /* Other style adjustments */
+}
+
